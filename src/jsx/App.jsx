@@ -66,7 +66,7 @@ class App extends Component {
         if (values.candidate === 'Donald Trump') {
           let data = values.date.split('-');
           if (data[2] === '01') {
-            chart_data.labels.push(parseInt(data[1]));
+            chart_data.labels.push(data[1] + '/2020');
           }
           else {
             chart_data.labels.push('');
