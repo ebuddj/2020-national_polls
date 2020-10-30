@@ -2,13 +2,17 @@
 
 **Live demo** https://ebuddj.github.io/2020-national_polls/
 
-## Project title
+## National polls animation
+
+Who’s ahead in the national polls?
+
+In the visualisation we show the FiveThirtyEight data for polling averages.
 
 **Sources**
-* []()
+* [538 Latest Polls](https://projects.fivethirtyeight.com/polls/president-general/national/)
 
 **EBU links**
-* []()
+* 
 
 **Used by**
 * []()
