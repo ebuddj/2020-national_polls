@@ -1,0 +1,2954 @@
+[
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-29",
+    "pct_trend_adjusted": 52.03194,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-29",
+    "pct_trend_adjusted": 43.18202,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-28",
+    "pct_trend_adjusted": 51.83824,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-28",
+    "pct_trend_adjusted": 42.85682,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-27",
+    "pct_trend_adjusted": 51.94981,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-27",
+    "pct_trend_adjusted": 42.78127,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-26",
+    "pct_trend_adjusted": 52.27547,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-26",
+    "pct_trend_adjusted": 42.84363,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-25",
+    "pct_trend_adjusted": 52.02411,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-25",
+    "pct_trend_adjusted": 42.86662,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-24",
+    "pct_trend_adjusted": 51.95222,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-24",
+    "pct_trend_adjusted": 42.7762,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-23",
+    "pct_trend_adjusted": 52.02253,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-23",
+    "pct_trend_adjusted": 42.36177,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-22",
+    "pct_trend_adjusted": 52.07342,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-22",
+    "pct_trend_adjusted": 42.19737,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-21",
+    "pct_trend_adjusted": 52.13742,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-21",
+    "pct_trend_adjusted": 42.22536,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-20",
+    "pct_trend_adjusted": 52.20845,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-20",
+    "pct_trend_adjusted": 41.90575,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-19",
+    "pct_trend_adjusted": 52.47891,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-19",
+    "pct_trend_adjusted": 41.74397,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-18",
+    "pct_trend_adjusted": 52.42488,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-18",
+    "pct_trend_adjusted": 41.85215,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-17",
+    "pct_trend_adjusted": 52.43217,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-17",
+    "pct_trend_adjusted": 41.78012,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-16",
+    "pct_trend_adjusted": 52.32102,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-16",
+    "pct_trend_adjusted": 41.80235,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-15",
+    "pct_trend_adjusted": 52.40731,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-15",
+    "pct_trend_adjusted": 41.94971,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-14",
+    "pct_trend_adjusted": 52.22545,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-14",
+    "pct_trend_adjusted": 41.97128,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-13",
+    "pct_trend_adjusted": 52.38095,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-13",
+    "pct_trend_adjusted": 41.8651,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-12",
+    "pct_trend_adjusted": 52.33461,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-12",
+    "pct_trend_adjusted": 41.97445,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-11",
+    "pct_trend_adjusted": 52.22438,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-11",
+    "pct_trend_adjusted": 41.86169,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-10",
+    "pct_trend_adjusted": 52.05375,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-10",
+    "pct_trend_adjusted": 41.95506,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-09",
+    "pct_trend_adjusted": 52.07363,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-09",
+    "pct_trend_adjusted": 41.98857,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-08",
+    "pct_trend_adjusted": 51.93617,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-08",
+    "pct_trend_adjusted": 42.15925,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-07",
+    "pct_trend_adjusted": 51.71245,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-07",
+    "pct_trend_adjusted": 42.24384,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-06",
+    "pct_trend_adjusted": 51.44818,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-06",
+    "pct_trend_adjusted": 42.40245,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-05",
+    "pct_trend_adjusted": 50.95763,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-05",
+    "pct_trend_adjusted": 42.7356,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-04",
+    "pct_trend_adjusted": 50.76752,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-04",
+    "pct_trend_adjusted": 42.7732,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-03",
+    "pct_trend_adjusted": 50.52537,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-03",
+    "pct_trend_adjusted": 43.07998,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-02",
+    "pct_trend_adjusted": 50.58022,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-02",
+    "pct_trend_adjusted": 42.96704,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-10-01",
+    "pct_trend_adjusted": 50.91502,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-10-01",
+    "pct_trend_adjusted": 42.67263,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-30",
+    "pct_trend_adjusted": 50.53429,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-30",
+    "pct_trend_adjusted": 42.8853,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-29",
+    "pct_trend_adjusted": 50.24551,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-29",
+    "pct_trend_adjusted": 43.18553,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-28",
+    "pct_trend_adjusted": 50.13454,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-28",
+    "pct_trend_adjusted": 43.17769,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-27",
+    "pct_trend_adjusted": 50.25681,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-27",
+    "pct_trend_adjusted": 42.97492,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-26",
+    "pct_trend_adjusted": 50.37796,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-26",
+    "pct_trend_adjusted": 43.18105,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-25",
+    "pct_trend_adjusted": 50.33044,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-25",
+    "pct_trend_adjusted": 43.15024,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-24",
+    "pct_trend_adjusted": 50.22187,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-24",
+    "pct_trend_adjusted": 43.12411,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-23",
+    "pct_trend_adjusted": 50.4505,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-23",
+    "pct_trend_adjusted": 43.15917,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-22",
+    "pct_trend_adjusted": 50.4521,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-22",
+    "pct_trend_adjusted": 43.5793,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-21",
+    "pct_trend_adjusted": 50.33154,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-21",
+    "pct_trend_adjusted": 43.4983,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-20",
+    "pct_trend_adjusted": 50.29503,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-20",
+    "pct_trend_adjusted": 43.54544,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-19",
+    "pct_trend_adjusted": 50.12224,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-19",
+    "pct_trend_adjusted": 43.474,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-18",
+    "pct_trend_adjusted": 50.14868,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-18",
+    "pct_trend_adjusted": 43.43302,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-17",
+    "pct_trend_adjusted": 50.20645,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-17",
+    "pct_trend_adjusted": 43.61103,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-16",
+    "pct_trend_adjusted": 50.27951,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-16",
+    "pct_trend_adjusted": 43.4184,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-15",
+    "pct_trend_adjusted": 50.3639,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-15",
+    "pct_trend_adjusted": 43.35733,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-14",
+    "pct_trend_adjusted": 50.50968,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-14",
+    "pct_trend_adjusted": 43.48723,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-13",
+    "pct_trend_adjusted": 50.64061,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-13",
+    "pct_trend_adjusted": 43.37352,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-12",
+    "pct_trend_adjusted": 50.50552,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-12",
+    "pct_trend_adjusted": 42.94479,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-11",
+    "pct_trend_adjusted": 50.52465,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-11",
+    "pct_trend_adjusted": 42.9809,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-10",
+    "pct_trend_adjusted": 50.5377,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-10",
+    "pct_trend_adjusted": 42.9985,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-09",
+    "pct_trend_adjusted": 50.54013,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-09",
+    "pct_trend_adjusted": 42.83969,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-08",
+    "pct_trend_adjusted": 50.5591,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-08",
+    "pct_trend_adjusted": 43.03412,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-07",
+    "pct_trend_adjusted": 50.53539,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-07",
+    "pct_trend_adjusted": 43.0244,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-06",
+    "pct_trend_adjusted": 50.49957,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-06",
+    "pct_trend_adjusted": 42.9928,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-05",
+    "pct_trend_adjusted": 50.43056,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-05",
+    "pct_trend_adjusted": 42.99141,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-04",
+    "pct_trend_adjusted": 50.41644,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-04",
+    "pct_trend_adjusted": 42.96626,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-03",
+    "pct_trend_adjusted": 50.23502,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-03",
+    "pct_trend_adjusted": 42.92747,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-02",
+    "pct_trend_adjusted": 50.31027,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-02",
+    "pct_trend_adjusted": 42.91951,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-09-01",
+    "pct_trend_adjusted": 50.27854,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-09-01",
+    "pct_trend_adjusted": 43.24719,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-31",
+    "pct_trend_adjusted": 50.24698,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-31",
+    "pct_trend_adjusted": 43.12097,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-30",
+    "pct_trend_adjusted": 50.40935,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-30",
+    "pct_trend_adjusted": 42.19689,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-29",
+    "pct_trend_adjusted": 50.8252,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-29",
+    "pct_trend_adjusted": 42.18849,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-28",
+    "pct_trend_adjusted": 50.88125,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-28",
+    "pct_trend_adjusted": 41.79545,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-27",
+    "pct_trend_adjusted": 50.60837,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-27",
+    "pct_trend_adjusted": 42.23401,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-26",
+    "pct_trend_adjusted": 50.60667,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-26",
+    "pct_trend_adjusted": 42.22951,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-25",
+    "pct_trend_adjusted": 51.3647,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-25",
+    "pct_trend_adjusted": 42.05629,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-24",
+    "pct_trend_adjusted": 51.36148,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-24",
+    "pct_trend_adjusted": 42.04082,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-23",
+    "pct_trend_adjusted": 51.38851,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-23",
+    "pct_trend_adjusted": 42.22332,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-22",
+    "pct_trend_adjusted": 51.1178,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-22",
+    "pct_trend_adjusted": 42.3592,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-21",
+    "pct_trend_adjusted": 51.02227,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-21",
+    "pct_trend_adjusted": 42.42984,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-20",
+    "pct_trend_adjusted": 51.13716,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-20",
+    "pct_trend_adjusted": 42.56822,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-19",
+    "pct_trend_adjusted": 51.21658,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-19",
+    "pct_trend_adjusted": 42.84595,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-18",
+    "pct_trend_adjusted": 51.15651,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-18",
+    "pct_trend_adjusted": 42.75423,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-17",
+    "pct_trend_adjusted": 51.24281,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-17",
+    "pct_trend_adjusted": 42.82265,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-16",
+    "pct_trend_adjusted": 51.00643,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-16",
+    "pct_trend_adjusted": 42.99366,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-15",
+    "pct_trend_adjusted": 50.95871,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-15",
+    "pct_trend_adjusted": 42.44348,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-14",
+    "pct_trend_adjusted": 50.95879,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-14",
+    "pct_trend_adjusted": 42.44353,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-13",
+    "pct_trend_adjusted": 50.61477,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-13",
+    "pct_trend_adjusted": 42.50779,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-12",
+    "pct_trend_adjusted": 50.39454,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-12",
+    "pct_trend_adjusted": 42.17106,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-11",
+    "pct_trend_adjusted": 50.39481,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-11",
+    "pct_trend_adjusted": 42.05714,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-10",
+    "pct_trend_adjusted": 50.20033,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-10",
+    "pct_trend_adjusted": 41.93478,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-09",
+    "pct_trend_adjusted": 49.93837,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-09",
+    "pct_trend_adjusted": 42.12852,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-08",
+    "pct_trend_adjusted": 49.93691,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-08",
+    "pct_trend_adjusted": 42.1278,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-07",
+    "pct_trend_adjusted": 49.93691,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-07",
+    "pct_trend_adjusted": 42.1278,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-06",
+    "pct_trend_adjusted": 50.04284,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-06",
+    "pct_trend_adjusted": 42.47258,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-05",
+    "pct_trend_adjusted": 50.26839,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-05",
+    "pct_trend_adjusted": 42.70132,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-04",
+    "pct_trend_adjusted": 50.43012,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-04",
+    "pct_trend_adjusted": 42.32843,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-03",
+    "pct_trend_adjusted": 50.45176,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-03",
+    "pct_trend_adjusted": 42.26674,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-02",
+    "pct_trend_adjusted": 50.24019,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-02",
+    "pct_trend_adjusted": 41.94745,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-08-01",
+    "pct_trend_adjusted": 50.23535,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-08-01",
+    "pct_trend_adjusted": 41.95304,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-31",
+    "pct_trend_adjusted": 50.23535,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-31",
+    "pct_trend_adjusted": 41.95304,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-30",
+    "pct_trend_adjusted": 50.01862,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-30",
+    "pct_trend_adjusted": 41.74516,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-29",
+    "pct_trend_adjusted": 49.99166,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-29",
+    "pct_trend_adjusted": 41.71321,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-28",
+    "pct_trend_adjusted": 50.05038,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-28",
+    "pct_trend_adjusted": 41.84991,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-27",
+    "pct_trend_adjusted": 49.95015,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-27",
+    "pct_trend_adjusted": 41.77862,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-26",
+    "pct_trend_adjusted": 49.94614,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-26",
+    "pct_trend_adjusted": 41.89692,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-25",
+    "pct_trend_adjusted": 49.89065,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-25",
+    "pct_trend_adjusted": 41.88645,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-24",
+    "pct_trend_adjusted": 49.88387,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-24",
+    "pct_trend_adjusted": 41.88662,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-23",
+    "pct_trend_adjusted": 49.88742,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-23",
+    "pct_trend_adjusted": 41.99007,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-22",
+    "pct_trend_adjusted": 49.54337,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-22",
+    "pct_trend_adjusted": 41.80717,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-21",
+    "pct_trend_adjusted": 50.41616,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-21",
+    "pct_trend_adjusted": 41.6405,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-20",
+    "pct_trend_adjusted": 50.41682,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-20",
+    "pct_trend_adjusted": 41.64071,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-19",
+    "pct_trend_adjusted": 50.42188,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-19",
+    "pct_trend_adjusted": 41.63427,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-18",
+    "pct_trend_adjusted": 50.32821,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-18",
+    "pct_trend_adjusted": 41.29278,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-17",
+    "pct_trend_adjusted": 50.30254,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-17",
+    "pct_trend_adjusted": 41.29777,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-16",
+    "pct_trend_adjusted": 50.33147,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-16",
+    "pct_trend_adjusted": 41.22743,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-15",
+    "pct_trend_adjusted": 50.33146,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-15",
+    "pct_trend_adjusted": 41.22783,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-14",
+    "pct_trend_adjusted": 50.16016,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-14",
+    "pct_trend_adjusted": 41.2248,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-13",
+    "pct_trend_adjusted": 50.11588,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-13",
+    "pct_trend_adjusted": 41.23738,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-12",
+    "pct_trend_adjusted": 50.5736,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-12",
+    "pct_trend_adjusted": 41.18194,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-11",
+    "pct_trend_adjusted": 50.71331,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-11",
+    "pct_trend_adjusted": 41.09998,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-10",
+    "pct_trend_adjusted": 50.70353,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-10",
+    "pct_trend_adjusted": 41.10019,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-09",
+    "pct_trend_adjusted": 50.64591,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-09",
+    "pct_trend_adjusted": 41.08826,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-08",
+    "pct_trend_adjusted": 50.60867,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-08",
+    "pct_trend_adjusted": 41.09149,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-07",
+    "pct_trend_adjusted": 51.12413,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-07",
+    "pct_trend_adjusted": 41.50049,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-06",
+    "pct_trend_adjusted": 51.05225,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-06",
+    "pct_trend_adjusted": 41.47358,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-05",
+    "pct_trend_adjusted": 51.05543,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-05",
+    "pct_trend_adjusted": 41.47315,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-04",
+    "pct_trend_adjusted": 51.05271,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-04",
+    "pct_trend_adjusted": 41.47332,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-03",
+    "pct_trend_adjusted": 51.05271,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-03",
+    "pct_trend_adjusted": 41.47327,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-02",
+    "pct_trend_adjusted": 51.05378,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-02",
+    "pct_trend_adjusted": 41.46749,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-07-01",
+    "pct_trend_adjusted": 50.91803,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-07-01",
+    "pct_trend_adjusted": 41.42148,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-30",
+    "pct_trend_adjusted": 51.07664,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-30",
+    "pct_trend_adjusted": 41.49869,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-29",
+    "pct_trend_adjusted": 50.56956,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-29",
+    "pct_trend_adjusted": 41.42496,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-28",
+    "pct_trend_adjusted": 50.7172,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-28",
+    "pct_trend_adjusted": 41.43563,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-27",
+    "pct_trend_adjusted": 50.7172,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-27",
+    "pct_trend_adjusted": 41.43563,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-26",
+    "pct_trend_adjusted": 50.73287,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-26",
+    "pct_trend_adjusted": 41.43504,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-25",
+    "pct_trend_adjusted": 50.61274,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-25",
+    "pct_trend_adjusted": 41.0894,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-24",
+    "pct_trend_adjusted": 50.90134,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-24",
+    "pct_trend_adjusted": 41.25831,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-23",
+    "pct_trend_adjusted": 51.03139,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-23",
+    "pct_trend_adjusted": 41.68917,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-22",
+    "pct_trend_adjusted": 50.68838,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-22",
+    "pct_trend_adjusted": 41.57934,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-21",
+    "pct_trend_adjusted": 50.36219,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-21",
+    "pct_trend_adjusted": 41.49467,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-20",
+    "pct_trend_adjusted": 50.37125,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-20",
+    "pct_trend_adjusted": 41.49084,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-19",
+    "pct_trend_adjusted": 50.25796,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-19",
+    "pct_trend_adjusted": 41.3916,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-18",
+    "pct_trend_adjusted": 50.26003,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-18",
+    "pct_trend_adjusted": 41.39189,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-17",
+    "pct_trend_adjusted": 50.46924,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-17",
+    "pct_trend_adjusted": 41.31588,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-16",
+    "pct_trend_adjusted": 50.73281,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-16",
+    "pct_trend_adjusted": 41.42291,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-15",
+    "pct_trend_adjusted": 50.03235,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-15",
+    "pct_trend_adjusted": 41.68262,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-14",
+    "pct_trend_adjusted": 50.02848,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-14",
+    "pct_trend_adjusted": 41.67846,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-13",
+    "pct_trend_adjusted": 49.8357,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-13",
+    "pct_trend_adjusted": 41.77098,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-12",
+    "pct_trend_adjusted": 49.95887,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-12",
+    "pct_trend_adjusted": 42.37156,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-11",
+    "pct_trend_adjusted": 49.96392,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-11",
+    "pct_trend_adjusted": 42.37056,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-10",
+    "pct_trend_adjusted": 49.96016,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-10",
+    "pct_trend_adjusted": 42.37121,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-09",
+    "pct_trend_adjusted": 49.91096,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-09",
+    "pct_trend_adjusted": 42.42978,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-08",
+    "pct_trend_adjusted": 49.73449,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-08",
+    "pct_trend_adjusted": 42.57434,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-07",
+    "pct_trend_adjusted": 49.72993,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-07",
+    "pct_trend_adjusted": 42.57544,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-06",
+    "pct_trend_adjusted": 49.83311,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-06",
+    "pct_trend_adjusted": 42.80068,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-05",
+    "pct_trend_adjusted": 49.61839,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-05",
+    "pct_trend_adjusted": 43.04684,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-04",
+    "pct_trend_adjusted": 49.29779,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-04",
+    "pct_trend_adjusted": 43.13253,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-03",
+    "pct_trend_adjusted": 49.36016,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-03",
+    "pct_trend_adjusted": 43.4407,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-02",
+    "pct_trend_adjusted": 49.18728,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-02",
+    "pct_trend_adjusted": 43.04985,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-06-01",
+    "pct_trend_adjusted": 49.16464,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-06-01",
+    "pct_trend_adjusted": 42.92402,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-31",
+    "pct_trend_adjusted": 48.76971,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-31",
+    "pct_trend_adjusted": 42.99779,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-30",
+    "pct_trend_adjusted": 48.89961,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-30",
+    "pct_trend_adjusted": 43.16011,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-29",
+    "pct_trend_adjusted": 48.89339,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-29",
+    "pct_trend_adjusted": 43.26302,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-28",
+    "pct_trend_adjusted": 48.89339,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-28",
+    "pct_trend_adjusted": 43.26302,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-27",
+    "pct_trend_adjusted": 48.74837,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-27",
+    "pct_trend_adjusted": 42.95277,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-26",
+    "pct_trend_adjusted": 49.3091,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-26",
+    "pct_trend_adjusted": 43.08163,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-25",
+    "pct_trend_adjusted": 48.91119,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-25",
+    "pct_trend_adjusted": 43.08038,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-24",
+    "pct_trend_adjusted": 48.91119,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-24",
+    "pct_trend_adjusted": 43.08038,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-23",
+    "pct_trend_adjusted": 49.02208,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-23",
+    "pct_trend_adjusted": 43.07384,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-22",
+    "pct_trend_adjusted": 49.10199,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-22",
+    "pct_trend_adjusted": 43.14096,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-21",
+    "pct_trend_adjusted": 49.09522,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-21",
+    "pct_trend_adjusted": 43.13844,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-20",
+    "pct_trend_adjusted": 49.13002,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-20",
+    "pct_trend_adjusted": 43.12975,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-19",
+    "pct_trend_adjusted": 49.17999,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-19",
+    "pct_trend_adjusted": 43.27257,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-18",
+    "pct_trend_adjusted": 48.83281,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-18",
+    "pct_trend_adjusted": 43.30438,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-17",
+    "pct_trend_adjusted": 49.42661,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-17",
+    "pct_trend_adjusted": 43.86725,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-16",
+    "pct_trend_adjusted": 49.39969,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-16",
+    "pct_trend_adjusted": 43.76611,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-15",
+    "pct_trend_adjusted": 49.45014,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-15",
+    "pct_trend_adjusted": 43.87293,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-14",
+    "pct_trend_adjusted": 49.432,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-14",
+    "pct_trend_adjusted": 43.85975,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-13",
+    "pct_trend_adjusted": 48.87567,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-13",
+    "pct_trend_adjusted": 43.62535,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-12",
+    "pct_trend_adjusted": 48.90092,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-12",
+    "pct_trend_adjusted": 43.57479,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-11",
+    "pct_trend_adjusted": 48.77863,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-11",
+    "pct_trend_adjusted": 43.59695,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-10",
+    "pct_trend_adjusted": 48.77852,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-10",
+    "pct_trend_adjusted": 43.59215,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-09",
+    "pct_trend_adjusted": 48.61443,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-09",
+    "pct_trend_adjusted": 43.24283,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-08",
+    "pct_trend_adjusted": 48.80126,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-08",
+    "pct_trend_adjusted": 43.44417,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-07",
+    "pct_trend_adjusted": 48.80709,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-07",
+    "pct_trend_adjusted": 43.43806,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-06",
+    "pct_trend_adjusted": 48.81763,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-06",
+    "pct_trend_adjusted": 43.43481,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-05",
+    "pct_trend_adjusted": 49.26978,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-05",
+    "pct_trend_adjusted": 43.53196,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-04",
+    "pct_trend_adjusted": 49.63767,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-04",
+    "pct_trend_adjusted": 43.26865,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-03",
+    "pct_trend_adjusted": 49.34661,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-03",
+    "pct_trend_adjusted": 43.50818,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-02",
+    "pct_trend_adjusted": 49.51351,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-02",
+    "pct_trend_adjusted": 43.38857,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-05-01",
+    "pct_trend_adjusted": 49.50872,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-05-01",
+    "pct_trend_adjusted": 43.42128,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-30",
+    "pct_trend_adjusted": 49.40034,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-30",
+    "pct_trend_adjusted": 43.4062,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-29",
+    "pct_trend_adjusted": 49.4002,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-29",
+    "pct_trend_adjusted": 43.406,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-28",
+    "pct_trend_adjusted": 50.19525,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-28",
+    "pct_trend_adjusted": 43.43544,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-27",
+    "pct_trend_adjusted": 49.73192,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-27",
+    "pct_trend_adjusted": 43.26067,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-26",
+    "pct_trend_adjusted": 49.74894,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-26",
+    "pct_trend_adjusted": 43.25308,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-25",
+    "pct_trend_adjusted": 49.70026,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-25",
+    "pct_trend_adjusted": 43.24141,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-24",
+    "pct_trend_adjusted": 49.60091,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-24",
+    "pct_trend_adjusted": 43.67319,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-23",
+    "pct_trend_adjusted": 49.60091,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-23",
+    "pct_trend_adjusted": 43.67319,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-22",
+    "pct_trend_adjusted": 49.60074,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-22",
+    "pct_trend_adjusted": 43.6735,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-21",
+    "pct_trend_adjusted": 49.60074,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-21",
+    "pct_trend_adjusted": 43.6735,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-20",
+    "pct_trend_adjusted": 49.43744,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-20",
+    "pct_trend_adjusted": 43.96822,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-19",
+    "pct_trend_adjusted": 49.22435,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-19",
+    "pct_trend_adjusted": 44.1413,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-18",
+    "pct_trend_adjusted": 49.13372,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-18",
+    "pct_trend_adjusted": 44.35984,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-17",
+    "pct_trend_adjusted": 49.06214,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-17",
+    "pct_trend_adjusted": 44.34667,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-16",
+    "pct_trend_adjusted": 49.0604,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-16",
+    "pct_trend_adjusted": 44.34444,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-15",
+    "pct_trend_adjusted": 48.77267,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-15",
+    "pct_trend_adjusted": 44.00019,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-14",
+    "pct_trend_adjusted": 48.32554,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-14",
+    "pct_trend_adjusted": 44.34309,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-13",
+    "pct_trend_adjusted": 47.52031,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-13",
+    "pct_trend_adjusted": 44.14134,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-12",
+    "pct_trend_adjusted": 47.52043,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-12",
+    "pct_trend_adjusted": 44.14139,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-11",
+    "pct_trend_adjusted": 47.63217,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-11",
+    "pct_trend_adjusted": 42.99973,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-10",
+    "pct_trend_adjusted": 47.70352,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-10",
+    "pct_trend_adjusted": 43.00631,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-09",
+    "pct_trend_adjusted": 48.28714,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-09",
+    "pct_trend_adjusted": 42.97815,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-08",
+    "pct_trend_adjusted": 48.28708,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-08",
+    "pct_trend_adjusted": 42.97824,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-07",
+    "pct_trend_adjusted": 48.27315,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-07",
+    "pct_trend_adjusted": 42.98745,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-06",
+    "pct_trend_adjusted": 48.78764,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-06",
+    "pct_trend_adjusted": 42.86165,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-05",
+    "pct_trend_adjusted": 48.81426,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-05",
+    "pct_trend_adjusted": 43.04813,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-04",
+    "pct_trend_adjusted": 48.69036,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-04",
+    "pct_trend_adjusted": 42.88903,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-03",
+    "pct_trend_adjusted": 48.70755,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-03",
+    "pct_trend_adjusted": 42.86735,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-02",
+    "pct_trend_adjusted": 49.21158,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-02",
+    "pct_trend_adjusted": 43.07454,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-04-01",
+    "pct_trend_adjusted": 49.21158,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-04-01",
+    "pct_trend_adjusted": 43.07454,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-31",
+    "pct_trend_adjusted": 49.45208,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-31",
+    "pct_trend_adjusted": 43.3201,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-30",
+    "pct_trend_adjusted": 49.49434,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-30",
+    "pct_trend_adjusted": 43.35962,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-29",
+    "pct_trend_adjusted": 49.84121,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-29",
+    "pct_trend_adjusted": 43.42517,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-28",
+    "pct_trend_adjusted": 49.90126,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-28",
+    "pct_trend_adjusted": 43.45767,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-27",
+    "pct_trend_adjusted": 50.05032,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-27",
+    "pct_trend_adjusted": 43.65187,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-26",
+    "pct_trend_adjusted": 50.05032,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-26",
+    "pct_trend_adjusted": 43.65187,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-25",
+    "pct_trend_adjusted": 49.7995,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-25",
+    "pct_trend_adjusted": 43.6662,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-24",
+    "pct_trend_adjusted": 49.88604,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-24",
+    "pct_trend_adjusted": 43.09573,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-23",
+    "pct_trend_adjusted": 50.42982,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-23",
+    "pct_trend_adjusted": 43.93637,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-22",
+    "pct_trend_adjusted": 50.61597,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-22",
+    "pct_trend_adjusted": 44.40266,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-21",
+    "pct_trend_adjusted": 50.83089,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-21",
+    "pct_trend_adjusted": 44.0462,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-20",
+    "pct_trend_adjusted": 50.82883,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-20",
+    "pct_trend_adjusted": 44.03054,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-19",
+    "pct_trend_adjusted": 50.83853,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-19",
+    "pct_trend_adjusted": 44.04239,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-18",
+    "pct_trend_adjusted": 50.25461,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-18",
+    "pct_trend_adjusted": 43.84169,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-17",
+    "pct_trend_adjusted": 50.25461,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-17",
+    "pct_trend_adjusted": 43.84169,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-16",
+    "pct_trend_adjusted": 50.19815,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-16",
+    "pct_trend_adjusted": 43.9433,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-15",
+    "pct_trend_adjusted": 50.21645,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-15",
+    "pct_trend_adjusted": 44.33923,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-14",
+    "pct_trend_adjusted": 50.32616,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-14",
+    "pct_trend_adjusted": 44.40435,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-13",
+    "pct_trend_adjusted": 50.32515,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-13",
+    "pct_trend_adjusted": 44.40431,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-12",
+    "pct_trend_adjusted": 50.02896,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-12",
+    "pct_trend_adjusted": 44.47955,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-11",
+    "pct_trend_adjusted": 49.89032,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-11",
+    "pct_trend_adjusted": 44.42228,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-10",
+    "pct_trend_adjusted": 50.27746,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-10",
+    "pct_trend_adjusted": 44.06461,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-09",
+    "pct_trend_adjusted": 50.35201,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-09",
+    "pct_trend_adjusted": 44.16133,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-08",
+    "pct_trend_adjusted": 50.54088,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-08",
+    "pct_trend_adjusted": 44.17655,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-07",
+    "pct_trend_adjusted": 50.37265,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-07",
+    "pct_trend_adjusted": 45.01874,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-06",
+    "pct_trend_adjusted": 49.72327,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-06",
+    "pct_trend_adjusted": 45.57991,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-05",
+    "pct_trend_adjusted": 49.72296,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-05",
+    "pct_trend_adjusted": 45.58027,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-04",
+    "pct_trend_adjusted": 49.72267,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-04",
+    "pct_trend_adjusted": 45.58018,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-03",
+    "pct_trend_adjusted": 49.72177,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-03",
+    "pct_trend_adjusted": 45.58198,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-02",
+    "pct_trend_adjusted": 49.72105,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-02",
+    "pct_trend_adjusted": 45.58205,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-03-01",
+    "pct_trend_adjusted": 49.71992,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-03-01",
+    "pct_trend_adjusted": 45.57798,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-02-29",
+    "pct_trend_adjusted": 49.71992,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-02-29",
+    "pct_trend_adjusted": 45.57798,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-02-28",
+    "pct_trend_adjusted": 49.75305,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-02-28",
+    "pct_trend_adjusted": 45.56311,
+    "state": "National"
+  },
+  {
+    "candidate": "Joseph R. Biden Jr.",
+    "date": "2020-02-27",
+    "pct_trend_adjusted": 49.3387,
+    "state": "National"
+  },
+  {
+    "candidate": "Donald Trump",
+    "date": "2020-02-27",
+    "pct_trend_adjusted": 45.51636,
+    "state": "National"
+  }
+]
