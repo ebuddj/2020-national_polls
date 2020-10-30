@@ -47,12 +47,14 @@ class App extends Component {
         // https://www.chartjs.org/docs/latest/charts/line.html#line-styling
         datasets:[{
           borderColor:'rgba(240, 119, 99, 1)',
+          borderWidth:7,
           data:[],
           pointRadius:0,
           fill:false,
           label:'D'
         },{
           borderColor:'rgba(105, 141, 197, 1)',
+          borderWidth:7,
           pointRadius:0,
           fill:false,
           data:[],
