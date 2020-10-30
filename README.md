@@ -2,11 +2,16 @@
 
 **Live demo** https://ebuddj.github.io/2020-national_polls/
 
-## National polls animation
+## US presidential elections national polls animation
 
 Who’s ahead in the national polls?
 
 In the visualisation we show the FiveThirtyEight data for polling averages.
+
+* Blue line represents Joe Biden
+* Red line represents Donald Trump
+
+The percentage shown at the end of the animation tells the most latest polling average on 29 October.
 
 **Sources**
 * [538 Latest Polls](https://projects.fivethirtyeight.com/polls/president-general/national/)

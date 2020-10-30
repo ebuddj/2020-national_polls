@@ -66,7 +66,7 @@ class App extends Component {
         if (values.candidate === 'Donald Trump') {
           let data = values.date.split('-');
           if (data[2] === '01') {
-            chart_data.labels.push(months[parseInt(data[1]) - 1]);
+            chart_data.labels.push(parseInt(data[1]));
           }
           else {
             chart_data.labels.push('');
@@ -111,8 +111,11 @@ class App extends Component {
               weight:'bold'
             },
             formatter: (value, context) => {
-              if (value == 52.03194 || value == 43.18202) {
-                return (Math.round((value + Number.EPSILON) * 10) / 10).toFixed(1) + '%\n\n';
+              if (value == 52.03194) {
+                return 'Biden ' + (Math.round((value + Number.EPSILON) * 10) / 10).toFixed(1) + '%\n\n';
+              }
+              else if (value == 43.18202) {
+                return 'Trump ' + (Math.round((value + Number.EPSILON) * 10) / 10).toFixed(1) + '%\n\n';
               }
               else {
                 return null;
