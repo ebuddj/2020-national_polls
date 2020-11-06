@@ -17,7 +17,7 @@ The percentage shown at the end of the animation tells the most latest polling a
 * [538 Latest Polls](https://projects.fivethirtyeight.com/polls/president-general/national/)
 
 **EBU links**
-* 
+* [News Exchange](https://news-exchange.ebu.ch/item_detail/54f6a05b67a21521f4321bc2c4e1f792/2020_21049033)
 
 **Used by**
 * []()
