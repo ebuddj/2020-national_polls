@@ -2,7 +2,7 @@
 
 **Live demo** https://ebuddj.github.io/2020-national_polls/
 
-## US presidential elections national polls animation
+## US presidential elections national polls animation (EBU)
 
 Who’s ahead in the national polls?
 
