@@ -40,7 +40,7 @@ class App extends Component {
   }
   getData() {
     d3.json('./data/polling-average.json').then((data) => {
-      let poll_data_r = [];
+      let poll_data_r = [];
       let poll_data_d = [];
       let chart_data = {
         labels:[],
@@ -65,7 +65,7 @@ class App extends Component {
       data.map((values, i) => {
         if (values.candidate === 'Donald Trump') {
           let data = values.date.split('-');
-          if (data[2] === '01') {
+          if (data[2] === '01') {
             chart_data.labels.push(data[1] + '/2020');
           }
           else {
